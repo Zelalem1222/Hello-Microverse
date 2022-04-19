@@ -1,18 +1,16 @@
-Project Name 
-  Hello-Microverse : This is my first project on Microverse and I only work it using Html and css.
 
+Project Name Hello-Microverse
 
- Built With
-   Html and css 
+Built With
 
-Author 
- GitHub:@github/zelalem1222
+Project Name Hello-Microverse : This is my first project on Microverse and I only work it using Html and css.
 
-Contributin 
-  contributions, issues, and feature requests are welcome!
+Built With Html and css
 
-Show your support 
-    Give a ⭐️ if you like this project!
+Author GitHub:@github/zelalem1222
 
-Acknowledgments 
-   Inspiration! 
+Contributin contributions, issues, and feature requests are welcome!
+
+Show your support Give a ⭐️ if you like this project!
+
+Acknowledgments Inspiration!
